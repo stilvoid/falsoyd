@@ -1,0 +1,8 @@
+Installation instructions for Falsoyd
+
+Compiling and installing Falsoyd is easy...
+Take a look at the config file and change anything you think you might want to and then, well, you know the drill:
+
+make
+make install
+./falsoyd

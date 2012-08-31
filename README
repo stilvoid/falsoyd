@@ -1,0 +1,18 @@
+Falsoyd: Falsoyd's a little shoot-em-up on your desktop.
+Falsoyd: Fire at little ships or you die.
+
+About:
+Falsoyd is yacwot (yet another complete waste of time) written in c++ using SDL for graphics and sound.
+
+Compiling:
+Falsoyd might not compile on your machine. Good luck.
+Check the "config" file for some simple options you may want to set.
+To compile, just type 'make && make install'.
+
+Controls:
+Mouse			Turn the ship
+Right mouse button	Thrust
+Left mouse button	Fire
+Middle mouse button	Special weapon of Doom And Destruction (SWODAD)
+p			Pause
+ESC			Toggle from menu to game screen

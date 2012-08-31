@@ -1,0 +1,14 @@
+#This is the config file for Falsoyd.
+#You can change these variables to suit your system.
+
+#Set compiler optimisations, processor type, etc.  here
+CFLAGS := $(CFLAGS)
+
+#PREFIX is the location of the falsoyd data files (gfx and sounds)
+#BIN_PREFIX is the location of the falsoyd binary
+
+#PREFIX=/usr/local/games/falsoyd/
+#BIN_PREFIX=/usr/local/bin/
+
+PREFIX=./
+BIN_PREFIX=./

@@ -1,0 +1,10 @@
+Instruajxoj de instalado por Falsojdo
+
+La kompilado kaj instalado de Falsojdo estas facila...
+Legu la dosieron "config"-a kaj sxangxu iomajn simplajn alternativojn.
+
+Do...
+
+make
+make install
+falsoyd

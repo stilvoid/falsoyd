@@ -1,0 +1,13 @@
+Falsojdo estas simpla pafludo.
+
+Mia esperanto estas malbona. Bonvolu, sendu korektojn al <darkling@insecurities.org>
+
+Informo:
+Falsojdo estis skribata el c++, kaj uzas SDL por grafikoj kaj sonoj.
+
+Kompili:
+Eble, Falsojdo ne kompilos sur via komputilo. Bonsxancon!
+Legu la dosieron "config"-a, en kiu oni povas trovi opciojn.
+Por ke kompili, tajpu 'make && make install'.
+
+Por ke regi la sxipon, uzu la muson.

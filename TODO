@@ -1,0 +1,4 @@
+2004-05-16
+- Put all audio code together in main.cpp
+- Design far better graphics
+- Tidy up code. Make sure constants are in the right place (alien movements patterns for example!)
